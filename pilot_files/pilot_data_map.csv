@@ -1,0 +1,11 @@
+Subject_ID,Sleep_Hours,Gender,Data_File,Marker_File
+BA60,5.5,F,/Users/paolacaric/Desktop/THESIS/all_data/BA60/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA60/marker.csv
+BA51,6.0,M,/Users/paolacaric/Desktop/THESIS/all_data/BA51/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA51/marker.csv
+BA62,6.0,F,/Users/paolacaric/Desktop/THESIS/all_data/BA62/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA62/marker.csv
+BA44,7.5,F,/Users/paolacaric/Desktop/THESIS/all_data/BA44/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA44/marker.csv
+BA39,7.0,F,/Users/paolacaric/Desktop/THESIS/all_data/BA39/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA39/marker.csv
+BA76,6.5,M,/Users/paolacaric/Desktop/THESIS/all_data/BA76/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA76/marker.csv
+BA66,7.0,M,/Users/paolacaric/Desktop/THESIS/all_data/BA66/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA66/marker.csv
+BA89,8.0,M,/Users/paolacaric/Desktop/THESIS/all_data/BA89/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA89/marker.csv
+BA9,8.0,F,/Users/paolacaric/Desktop/THESIS/all_data/BA9/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA9/marker.csv
+BA72,8.0,F,/Users/paolacaric/Desktop/THESIS/all_data/BA72/data.csv,/Users/paolacaric/Desktop/THESIS/all_data/BA72/marker.csv

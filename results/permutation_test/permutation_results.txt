@@ -1,0 +1,24 @@
+
+Permutation Test Results (1000 permutations, fixed thresholds)
+============================================================
+
+EXP3 — KFold, subject-level (n=81 subjects)
+  Real R²       : -0.1387
+  Null R² mean  : -0.1844  |  95th pct: -0.0243
+  p-value (R²)  : 0.380  n.s.
+
+  Real F1 macro : 0.3615
+  Null F1 mean  : 0.2846  |  95th pct: 0.3615
+  p-value (F1)  : 0.050  n.s.
+
+EXP6 — GroupKFold, task-level (n=81 subjects, ~5 tasks each)
+  Note: labels shuffled at subject level to preserve EEG structure.
+  Real R²       : -0.0334
+  Null R² mean  : -0.1734  |  95th pct: -0.0148
+  p-value (R²)  : 0.067  n.s.
+
+  Real F1 macro : 0.3004
+  Null F1 mean  : 0.2773  |  95th pct: 0.3577
+  p-value (F1)  : 0.280  n.s.
+
+Significance: * p<0.05  ** p<0.01  *** p<0.001  n.s. = not significant

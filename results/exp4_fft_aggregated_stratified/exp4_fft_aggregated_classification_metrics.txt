@@ -1,0 +1,26 @@
+Experiment : exp4_fft_aggregated
+Split mode : stratified (5-fold StratifiedKFold)
+Categories : Short | Normal | Long
+Evaluated  : 2830 rows (row-level evaluation)
+N features : 70
+
+Accuracy        : 0.8827
+F1 (macro)      : 0.8529
+F1 (weighted)   : 0.8797
+
+Classification report:
+              precision    recall  f1-score   support
+
+       Short       0.95      0.80      0.87       933
+      Normal       0.85      0.98      0.91      1580
+        Long       0.95      0.67      0.79       317
+
+    accuracy                           0.88      2830
+   macro avg       0.91      0.81      0.85      2830
+weighted avg       0.89      0.88      0.88      2830
+
+Confusion matrix (rows=actual, cols=predicted):
+Labels: ['Short', 'Normal', 'Long']
+[[ 742  187    4]
+ [  29 1543    8]
+ [   8   96  213]]

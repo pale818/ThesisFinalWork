@@ -1,0 +1,9 @@
+Experiment : exp6_top5_task_level
+Split mode : group (5-fold GroupKFold)
+Evaluated  : 83 subjects (mean of row predictions)
+N features : 15
+
+Null baseline RMSE : 0.7709 h
+RF model RMSE      : 0.7788 h
+RF model MAE       : 0.6385 h
+RF model R²        : -0.0206

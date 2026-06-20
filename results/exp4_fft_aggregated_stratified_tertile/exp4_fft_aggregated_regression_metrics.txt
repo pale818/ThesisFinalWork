@@ -1,0 +1,9 @@
+Experiment : exp4_fft_aggregated
+Split mode : stratified (5-fold StratifiedKFold)
+Evaluated  : 2830 rows (row-level evaluation)
+N features : 15
+
+Null baseline RMSE : 0.7781 h
+RF model RMSE      : 0.4983 h
+RF model MAE       : 0.3813 h
+RF model R²        : 0.5899

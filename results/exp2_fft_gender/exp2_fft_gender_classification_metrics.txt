@@ -1,0 +1,26 @@
+Experiment : exp2_fft_gender
+Mode       : Classification (5-fold stratified CV)
+Categories : Short (<=6h), Normal (>6h and <8h), Long (>=8h)
+N subjects : 83
+N features : 71
+
+Accuracy   : 0.5422
+F1 (macro) : 0.2779
+F1 (weighted): 0.4454
+
+Classification report:
+              precision    recall  f1-score   support
+
+       Short       0.22      0.07      0.11        27
+      Normal       0.60      0.91      0.72        47
+        Long       0.00      0.00      0.00         9
+
+    accuracy                           0.54        83
+   macro avg       0.27      0.33      0.28        83
+weighted avg       0.41      0.54      0.45        83
+
+Confusion matrix (rows=actual, cols=predicted):
+Labels: ['Short', 'Normal', 'Long']
+[[ 2 23  2]
+ [ 4 43  0]
+ [ 3  6  0]]

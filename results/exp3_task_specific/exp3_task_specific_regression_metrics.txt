@@ -1,0 +1,9 @@
+Experiment : exp3_task_specific
+Mode       : Regression (5-fold CV)
+N subjects : 83
+N features : 15
+
+Null baseline RMSE : 0.7709 h
+RF model RMSE      : 0.7924 h
+RF model MAE       : 0.6472 h
+RF model R²        : -0.0564

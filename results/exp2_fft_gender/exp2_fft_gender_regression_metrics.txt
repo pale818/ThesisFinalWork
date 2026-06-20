@@ -1,0 +1,9 @@
+Experiment : exp2_fft_gender
+Mode       : Regression (5-fold CV)
+N subjects : 83
+N features : 71
+
+Null baseline RMSE : 0.7709 h
+RF model RMSE      : 0.8273 h
+RF model MAE       : 0.6915 h
+RF model R²        : -0.1517
